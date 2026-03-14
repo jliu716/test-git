@@ -1,0 +1,21 @@
+{
+    "PROJECT": "test-git",
+    "REPO_ID": "cdf58110-7fc3-4ba4-9e48-d22181f6f864",
+    "PROJECT_ID": "44aed7e1-1cb9-4795-9611-d4eae1c3a453",
+    "TODO": "status: 'to do'",
+    "AGENT": "CLAUDE_CODE",
+    "MODEL": "claude-sonnet-4-6",
+    "DEBUG": true,
+    "POLLING_INTERVAL": 5,
+    "all_agents": [
+        "CLAUDE_CODE",
+        "AMP",
+        "GEMINI",
+        "CODEX",
+        "OPENCODE",
+        "CURSOR_AGENT",
+        "QWEN_CODE",
+        "COPILOT",
+        "DROID"
+    ]
+}
